@@ -26,10 +26,10 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
+author: Fran Arboleya
 author_bio: Hello, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.
-author_email: "johndoe@gmail.com"
-author_location: India
+author_email: "farboleya@gmail.com"
+author_location: Spain
 author_website_url: "http://johndoe.com"
 
 author_work_experiences:
@@ -67,16 +67,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: kikiprinci
+github_username:  kikiprinci
+# facebook_username: johndoe
+linkedin_username: franarboleya
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments using disqus
 disqus_shortname: sujay-kundu
